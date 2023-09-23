@@ -7,6 +7,7 @@ int main(int argc, char *argv[]){
     printf("l\n");
     printf("l\n");
     printf("o\n");
+    printf("world\n\n"); //Agora o "hello" está na vertical e o "world" horizontal.
     return 0;
 
 }
