@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]){
+int main(){
 
     printf("h\n");
     printf("e\n");
