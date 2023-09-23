@@ -2,11 +2,11 @@
 
 int main(int argc, char *argv[]){
 
-    printf("Mensagem_1\n");
-    printf("Mensagem_2\n");
-    printf("Mensagem_3\n");
-    printf("Mensagem_4\n");
-    printf("Mensagem_5\n");
+    printf("h\n");
+    printf("e\n");
+    printf("l\n");
+    printf("l\n");
+    printf("o\n");
     return 0;
 
 }
