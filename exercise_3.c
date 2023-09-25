@@ -3,13 +3,13 @@
 int main(){
 
     int ano = 0;
-    int nasc;
+    int idade;
 
     printf("Digite seu ano de nascimento:\n");
     scanf("%d", &ano);
 
-    nasc = (2023 - ano);
+    idade = (2023 - ano);
 
-    printf("Você tem %d anos.\n", nasc);
+    printf("Você tem %d anos.\n", idade);
 
 }
