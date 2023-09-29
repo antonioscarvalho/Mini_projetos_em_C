@@ -12,10 +12,10 @@ int main(){
     //variável = (potência explicada): pow(base, expoente);
     dobro = pow(numero, 2);
 
-    triplo = pow(2, 3);
+    triplo = pow(numero, 3);
 
     //variável = (raíz explicada): sqrt(numero);
-    raiz = sqrt(4);
+    raiz = sqrt(numero);
 
     printf("O dobro do número é: %d\n", dobro);
     printf("O triplo do número é: %d\n", triplo);
