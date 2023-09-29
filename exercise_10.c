@@ -4,7 +4,8 @@
 int main(){
 
     int numero;
-    int dobro, triplo, raiz;
+    int dobro, triplo;
+    float raiz;
 
     printf("Digite um número para:\nDescobrir seu dobro, triplo e raíz quadrada\n");
     scanf("%d", &numero);
@@ -19,6 +20,6 @@ int main(){
 
     printf("O dobro do número é: %d\n", dobro);
     printf("O triplo do número é: %d\n", triplo);
-    printf("A raíz quadrada do número é: %.d\n", raiz);
+    printf("A raíz quadrada do número é: %.1f\n", raiz);
     
 }
