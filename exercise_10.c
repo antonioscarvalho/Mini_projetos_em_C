@@ -11,9 +11,11 @@ int main(){
     scanf("%d", &numero);
 
     //variável = (potência explicada): pow(base, expoente);
-    dobro = pow(numero, 2);
+    dobro = 2 * numero;
+    //se fosse potência seria: pow(numero, 2);
 
-    triplo = pow(numero, 3);
+    triplo = 3 * numero;
+    //se fosse potência seria: pow(numero, 3);
 
     //variável = (raíz explicada): sqrt(numero);
     raiz = sqrt(numero);
